@@ -19,6 +19,6 @@
 
 10.Java program to convert decimal number to binary.
 
-11. Program for Shortest Job First (or SJF) CPU Scheduling (Advance)
+11.Program for Shortest Job First (or SJF) CPU Scheduling (Advance)
 
-12. Program for FCFS CPU Scheduling in java (Advance)
+12.Program for FCFS CPU Scheduling in java (Advance)
