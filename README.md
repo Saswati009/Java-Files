@@ -18,3 +18,7 @@
 9.Java program to print multiplication of 2 matrices.
 
 10.Java program to convert decimal number to binary.
+
+11.Program for Shortest Job First (or SJF) CPU Scheduling (Advance)
+
+12.Program for FCFS CPU Scheduling in java (Advance)
